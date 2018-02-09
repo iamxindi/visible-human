@@ -1,1 +1,2 @@
-# visible-human
+# Visible Human
+A personal project. 
